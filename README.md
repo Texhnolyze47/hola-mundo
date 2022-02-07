@@ -1,4 +1,4 @@
-# hola-mundo
+# hola Mundo
 Mi primer repositorio de prueba
 
 Autor Ivan R.
